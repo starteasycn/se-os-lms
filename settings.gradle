@@ -1,0 +1,4 @@
+
+include 'webfront-war'
+include 'admin-war'
+
